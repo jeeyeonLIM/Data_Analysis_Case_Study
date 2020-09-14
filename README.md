@@ -5,7 +5,7 @@
 |:---:|:---:|:---:|:---:| 
 |1|데이터 분석 시작하기 |[link](https://www.slideshare.net/leoyang991/ss-90038927)|네웹 인턴할 때 데이터 분석 과정 관련해서 재밌게 봤던 자료|
 |2|포스트 코로나 시대 Insight|[link](https://dacon.io/competitions/official/235618/codeshare/1448)|너무너무 재밌었다. 카드 소비 데이터를 기준으로 업종별 결제건수를 Clustering하고, 군집별로 외부데이터 활용하며 설명해 놨다. |
-
+|2|코로나19와의 전쟁에서 생명 구하기 - '사망'에 대한 insights 도출|[link](https://dacon.io/codeshare/949)||
 
 ### 기타 느낀점.
 2. 포스트 코로나 시대 Insight  
