@@ -12,5 +12,6 @@
 - Trend가 존재하는 군집화 방법에 대해 알았다. 많이 사용되는 방법인지는 잘 모르겠으나 참신하게 다가왔다.
 - 시계열 데이터 분해 방법으로 Trend(추세) + Seasonal(계절성) + Random(잔차) 로 나누고, Trend를 추출한 후 :point_right: Trend를 기준으로 Corr 계산한다.  :point_right: 이렇게 구한 Corr을 바탕으로  계층 군집(Hierarchical cluster)을 ward연결법으로 시행하는 방법.
 - 참고링크 : https://eat-toast.tistory.com/15
-
+- 관련해서 시간 여유 있을 때 아래 분석도 볼 것이다
+https://dacon.io/competitions/official/235618/codeshare/1434?page=1&dtype=vote&ptype=pub
 
