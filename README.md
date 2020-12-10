@@ -1,14 +1,14 @@
 # 데이터 분석 사례 Case Study 
 - 분석 사례를 많이 보는 것은 중요하다. Reference로 활용하기에 좋고, 기존 방법을 변형하여 사용하기도 좋다. 분석할 때 어떤 방법 활용해서 어떻게 시작할지조차 막막하기 마련인데 사례를 많이 알면 어느정도 해소되지 않을까.
 
-|num|제목|링크|설명|
-|:---:|:---:|:---:|:---:| 
-|1|데이터 분석 시작하기 |[link](https://www.slideshare.net/leoyang991/ss-90038927)|네웹 인턴할 때 데이터 분석 과정 관련해서 재밌게 봤던 자료|
-|2|포스트 코로나 시대 Insight|[link](https://dacon.io/competitions/official/235618/codeshare/1448)|너무너무 재밌었다. 카드 소비 데이터를 기준으로 업종별 결제건수를 Clustering하고, 군집별로 외부데이터 활용하며 설명해 놨다. |
-|3|코로나19와의 전쟁에서 생명 구하기 - '사망'에 대한 insights 도출|[link](https://dacon.io/codeshare/949)||
-|4|카카오 엔터프라이즈, 스마트 홈트 - 칼로리·영양 정보 알려주는 식단 카메라… 딥러닝 기술로 사진 속 1000여 종 음식 구분|[link](https://magazine.hankyung.com/business/article/2020110301301000471)||
-|5|비씨카드 '소상공인 업종별 단골고객을 정의하고 매출 등의 영향을 분석하는 AI' |[link](https://www.youtube.com/watch?v=WvvKBmTsPTY)||
-
+|num|제목|링크|일자|설명|
+|:---:|:---:|:---:|:---:|:---:| 
+|1|데이터 분석 시작하기 |[link](https://www.slideshare.net/leoyang991/ss-90038927)|2020.09.14|네웹 인턴할 때 데이터 분석 과정 관련해서 재밌게 봤던 자료|
+|2|포스트 코로나 시대 Insight|[link](https://dacon.io/competitions/official/235618/codeshare/1448)|2020.09.14|너무너무 재밌었다. 카드 소비 데이터를 기준으로 업종별 결제건수를 Clustering하고, 군집별로 외부데이터 활용하며 설명해 놨다. |
+|3|코로나19와의 전쟁에서 생명 구하기 - '사망'에 대한 insights 도출|[link](https://dacon.io/codeshare/949)|2020.09.15||
+|4|카카오 엔터프라이즈, 스마트 홈트 - 칼로리·영양 정보 알려주는 식단 카메라… 딥러닝 기술로 사진 속 1000여 종 음식 구분|[link](https://magazine.hankyung.com/business/article/2020110301301000471)|2020.11.20||
+|5|비씨카드 '소상공인 업종별 단골고객을 정의하고 매출 등의 영향을 분석하는 AI' |[link](https://www.youtube.com/watch?v=WvvKBmTsPTY)|||
+|6|공공 빅데이터 분석 공모전 청중평가단 참여 |[link](https://www.data.go.kr/bbs/ntc/selectNotice.do?pageIndex=1&originId=NOTICE_0000000001810&atchFileId=FILE_000000002299864&searchCondition2=2&searchKeyword1=?originId=NOTICE_0000000001810)|2020.12.10||
 
 # 기타 느낀점.
 ## 2. 포스트 코로나 시대 Insight  
@@ -70,7 +70,7 @@ categorical 변수 : 감염 경로 유형 (Infection route)
 - 소상공인 입장에서는 매출만 올렸음 좋겠는 것임. 따라서 어떻게하면 매출을 올릴 수 있을까 하는 기술의 활용성 위주로 설명할 수 있어야 함.
 - 즉 확실한 목표가 있어야 하고 실질적인 이점이 있어야 한다.
 
-## 6. 공공 빅데이터 분석 공모전
+## 6. 공공 빅데이터 분석 공모전 청중평가단 참여
 - 청중평가단(100)에 참가해서 100명중 한명으로 있었다 ! 
 #### 행정안전부 인프라구축과 
 - 조세행정에 데이터 분석을 활용함.
