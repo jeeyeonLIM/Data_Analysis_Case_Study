@@ -9,6 +9,7 @@
 |4|카카오 엔터프라이즈, 스마트 홈트 - 칼로리·영양 정보 알려주는 식단 카메라… 딥러닝 기술로 사진 속 1000여 종 음식 구분|[link](https://magazine.hankyung.com/business/article/2020110301301000471)|2020.11.20||
 |5|비씨카드 '소상공인 업종별 단골고객을 정의하고 매출 등의 영향을 분석하는 AI' |[link](https://www.youtube.com/watch?v=WvvKBmTsPTY)|||
 |6|공공 빅데이터 분석 공모전 청중평가단 참여 |[link](https://www.data.go.kr/bbs/ntc/selectNotice.do?pageIndex=1&originId=NOTICE_0000000001810&atchFileId=FILE_000000002299864&searchCondition2=2&searchKeyword1=?originId=NOTICE_0000000001810)|2020.12.10||
+|7|웹로그 분석방법 정리하기|[link]()|2021.1.10||
 
 # 기타 느낀점.
 ## 2. 포스트 코로나 시대 Insight  
@@ -123,7 +124,9 @@ categorical 변수 : 감염 경로 유형 (Infection route)
 - 둘째로 매끄럽게 이어져야 한다는 것을 알았다. 그리고 쉽게 담아야 한다.
 - 마지막으로 결론부분이 가장 기억에 많이 남는 만큼, 정리해주는 것이 꼭 필요하다고 느꼈다. 분석 전 과정을 짧게나마 리뷰하는 것이 스토리 라인을 한번 더 각인시키는 효과가 될 것 같다. 실제로 발표가 끝나고 나면 드문 드문 기억나는 것이 일반적이였기 때문이다.
 
-
-
+## 7.웹로그 분석방법 정리하기
+- 목적을 정한다. 
+- 목적 -> 수집 -> 분석 -> 행동
+https://plan2018.tistory.com/155
 
 
